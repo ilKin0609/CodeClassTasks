@@ -1,0 +1,5 @@
+"Günlük qeyd 1: Sabah yuxu."
+"Günlük qeyd 2: İşə getdim."
+"Günlük qeyd 3: İşdə vaxt kecirtdim."
+"Günlük qeyd 2: İşden qayitdim."
+"Günlük qeyd 2: Yatdim."
