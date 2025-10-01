@@ -1,0 +1,6 @@
+Ad: Ilkin
+Soyad: Mammadov
+Universitet: AzTu
+Ixtisas: Informasiya Tehlukesizliyi
+Kurs: 3
+Kafedra: Kibertehlukesizlik
